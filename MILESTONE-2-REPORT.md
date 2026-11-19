@@ -6,7 +6,7 @@ Student: Y lyheng
 ## 1. Architecture
 
 ```
-velea/
+Velea - StudyPlanner/
 ├── lib/
 │   ├── model/
 │   │   ├── student.dart
